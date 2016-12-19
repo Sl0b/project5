@@ -10,6 +10,6 @@
 
     <dimen name="card_margin">4dp</dimen>
     <dimen name="card_text_padding">16dp</dimen>
-    <dimen name="card_title_bottom_padding">16dp</dimen>
+    <dimen name="card_title_bottom_padding">8dp</dimen>
 
 </resources>
